@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Explorer | 💻 Web Developer | Learner</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&width=600&lines=Code.+Create.+Learn.+Repeat.;Crafting+Solutions+with+Logic+%26+Heart." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&width=600&lines=Code.+Create.+Learn.+Repeat.;Crafting+Solutions+with+Logic+%26+Heart." >
 </div>
 
 
